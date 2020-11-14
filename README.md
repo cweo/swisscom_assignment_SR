@@ -1,6 +1,6 @@
 # swisscom_assignment_SR
 
-The goal of this repository is to use different approaches to do a Speaker Gender Classification task using the `dev-clean` corpus from [LibriSpeech](http://www.openslr.org/12/).
+The goal of this repository is to come up with different approaches to do a Speaker Gender Classification task using the `dev-clean` corpus from [LibriSpeech](http://www.openslr.org/12/).
 
 ## Installation
 
