@@ -10,9 +10,9 @@ Run ```bash download_dataset.sh```.
 
 ### Requirements
 
-Pytorch==1.7.0 was used to create the notebook.
+Python==3.8.5 and Pytorch==1.4.0 were used to create the notebook.
 
-Also, install the general requirements:
+Also, install the [pip](https://pip.pypa.io/en/stable/) requirements:
 ```pip install -r requirements.txt```
 
 ## Usage
